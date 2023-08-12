@@ -1,0 +1,52 @@
+# Logfile created on 2023-08-11 21:19:41 +0700 by logger.rb/v1.5.3
+DEBUG | 2023-08-11 21:20:38 +0700 | Category added!
+DEBUG | 2023-08-11 21:20:44 +0700 | Exiting...
+DEBUG | 2023-08-11 21:30:24 +0700 | Import votes from an external CSV
+DEBUG | 2023-08-11 21:30:29 +0700 | Votes imported!
+DEBUG | 2023-08-11 21:30:34 +0700 | +-----------------------+
+| Employee Of The Month |
++--------------+--------+
+| Votee        | Count  |
++--------------+--------+
+| Bob Wing     | 65     |
+| James King   | 31     |
+| Susie Bennet | 29     |
+| Chris Jones  | 23     |
++--------------+--------+
+DEBUG | 2023-08-11 21:30:34 +0700 | +------------------------+
+| Best Christmas Sweater |
++-------------+----------+
+| Votee       | Count    |
++-------------+----------+
+| Bob Wing    | 45       |
+| Jane Smith  | 39       |
+| Allan Green | 33       |
+| Tony Bennet | 23       |
++-------------+----------+
+DEBUG | 2023-08-11 21:30:38 +0700 | You can vote for: 
+DEBUG | 2023-08-11 23:34:25 +0700 | Import votes from an external CSV
+DEBUG | 2023-08-11 23:34:32 +0700 | Votes imported!
+DEBUG | 2023-08-11 23:34:38 +0700 | +-----------------------+
+| Employee Of The Month |
++--------------+--------+
+| Votee        | Count  |
++--------------+--------+
+| Bob Wing     | 65     |
+| James King   | 31     |
+| Susie Bennet | 29     |
+| Chris Jones  | 23     |
++--------------+--------+
+DEBUG | 2023-08-11 23:34:38 +0700 | +------------------------+
+| Best Christmas Sweater |
++-------------+----------+
+| Votee       | Count    |
++-------------+----------+
+| Bob Wing    | 45       |
+| Jane Smith  | 39       |
+| Allan Green | 33       |
+| Tony Bennet | 23       |
++-------------+----------+
+DEBUG | 2023-08-11 23:34:50 +0700 | You can vote for: 
+DEBUG | 2023-08-11 23:56:37 +0700 | Exiting...
+DEBUG | 2023-08-12 09:18:52 +0700 | Exiting...
+DEBUG | 2023-08-12 09:39:15 +0700 | You can vote for: 
